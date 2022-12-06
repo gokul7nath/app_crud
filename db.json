@@ -1,0 +1,67 @@
+{
+  "player": [
+    {
+      "name": "MS Dhoni",
+      "nom": "45",
+      "runs": "3500",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Virat Kholi",
+      "nom": "32",
+      "runs": "2100"
+    },
+    {
+      "name": "Shreyas Iyer",
+      "nom": "15",
+      "runs": "700",
+      "id": 3
+    },
+    {
+      "name": "Ishan Kishan",
+      "nom": "8",
+      "runs": "350",
+      "id": 4
+    },
+    {
+      "name": "KL Rahul",
+      "nom": "20",
+      "runs": "1200",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "Dhawan",
+      "nom": "28",
+      "runs": "2000",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "Rishab Pant",
+      "nom": "20",
+      "runs": "900",
+      "id": 8
+    },
+    {
+      "name": "Surya Kumar Yadhav",
+      "nom": "10",
+      "runs": "700",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Sanju Samson",
+      "nom": "8",
+      "runs": "430"
+    },
+    {
+      "name": "Subhman Gill",
+      "nom": "12",
+      "runs": "500",
+      "active": true,
+      "id": 11
+    }
+  ]
+}
